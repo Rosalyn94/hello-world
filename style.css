@@ -12,5 +12,7 @@ h1 {
   border: 2px blue solid;
   height: 500px;
   width: 500px;
-  row-height: 100px 200px 100px 200px;
+  grid-template-rows: 100px 200px 100px 200px;
+  display: grid;
+  grid-template-columns: auto;
 }
