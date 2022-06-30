@@ -6,4 +6,11 @@
 h1 {
   font-family: "Creepster", cursive;
   font-size: 25px;
-  color: red;
+  color: red;}
+
+.grid {
+  border: 2px blue solid;
+  height: 500px;
+  width: 500px;
+  row-height: 100px 200px 100px 200px;
+}
